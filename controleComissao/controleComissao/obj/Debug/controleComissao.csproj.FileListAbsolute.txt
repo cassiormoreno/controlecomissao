@@ -1,0 +1,74 @@
+c:\users\eduardo.tgandra\documents\visual studio 2013\Projects\controleComissao\controleComissao\bin\Debug\controleComissao.exe.config
+c:\users\eduardo.tgandra\documents\visual studio 2013\Projects\controleComissao\controleComissao\bin\Debug\controleComissao.exe
+c:\users\eduardo.tgandra\documents\visual studio 2013\Projects\controleComissao\controleComissao\bin\Debug\controleComissao.pdb
+c:\users\eduardo.tgandra\documents\visual studio 2013\Projects\controleComissao\controleComissao\obj\Debug\controleComissao.csprojResolveAssemblyReference.cache
+c:\users\eduardo.tgandra\documents\visual studio 2013\Projects\controleComissao\controleComissao\obj\Debug\controleComissao.frmPrincipal.resources
+c:\users\eduardo.tgandra\documents\visual studio 2013\Projects\controleComissao\controleComissao\obj\Debug\controleComissao.Properties.Resources.resources
+c:\users\eduardo.tgandra\documents\visual studio 2013\Projects\controleComissao\controleComissao\obj\Debug\controleComissao.csproj.GenerateResource.Cache
+c:\users\eduardo.tgandra\documents\visual studio 2013\Projects\controleComissao\controleComissao\obj\Debug\controleComissao.exe
+c:\users\eduardo.tgandra\documents\visual studio 2013\Projects\controleComissao\controleComissao\obj\Debug\controleComissao.pdb
+c:\users\eduardo.tgandra\documents\visual studio 2013\Projects\controleComissao\controleComissao\obj\Debug\controleComissao.ucVendedor.resources
+c:\users\eduardo.tgandra\documents\visual studio 2013\Projects\controleComissao\controleComissao\obj\Debug\controleComissao.ucComissao.resources
+C:\Users\cassio.rmoreno\Documents\Visual Studio 2013\Projects\controleComissao\controleComissao\bin\Debug\controleComissao.exe.config
+C:\Users\cassio.rmoreno\Documents\Visual Studio 2013\Projects\controleComissao\controleComissao\obj\Debug\controleComissao.exe
+C:\Users\cassio.rmoreno\Documents\Visual Studio 2013\Projects\controleComissao\controleComissao\obj\Debug\controleComissao.pdb
+C:\Users\cassio.rmoreno\Documents\Visual Studio 2013\Projects\controleComissao\controleComissao\bin\Debug\controleComissao.exe
+C:\Users\cassio.rmoreno\Documents\Visual Studio 2013\Projects\controleComissao\controleComissao\bin\Debug\controleComissao.pdb
+C:\Users\cassio.rmoreno\Documents\Visual Studio 2013\Projects\controleComissao\controleComissao\obj\Debug\controleComissao.csprojResolveAssemblyReference.cache
+C:\Users\cassio.rmoreno\Documents\Visual Studio 2013\Projects\controleComissao\controleComissao\obj\Debug\controleComissao.frmPrincipal.resources
+C:\Users\cassio.rmoreno\Documents\Visual Studio 2013\Projects\controleComissao\controleComissao\obj\Debug\controleComissao.Properties.Resources.resources
+C:\Users\cassio.rmoreno\Documents\Visual Studio 2013\Projects\controleComissao\controleComissao\obj\Debug\controleComissao.ucComissao.resources
+C:\Users\cassio.rmoreno\Documents\Visual Studio 2013\Projects\controleComissao\controleComissao\obj\Debug\controleComissao.ucVendedor.resources
+C:\Users\cassio.rmoreno\Documents\Visual Studio 2013\Projects\controleComissao\controleComissao\obj\Debug\controleComissao.csproj.GenerateResource.Cache
+T:\Cursos Livres\Oficina_Informatica\controleComissao\controleComissao\bin\Debug\controleComissao.exe.config
+T:\Cursos Livres\Oficina_Informatica\controleComissao\controleComissao\obj\Debug\controleComissao.exe
+T:\Cursos Livres\Oficina_Informatica\controleComissao\controleComissao\obj\Debug\controleComissao.pdb
+T:\Cursos Livres\Oficina_Informatica\informatica para internet\controleComissao\controleComissao\bin\Debug\controleComissao.exe.config
+T:\Cursos Livres\Oficina_Informatica\informatica para internet\controleComissao\controleComissao\bin\Debug\controleComissao.exe
+T:\Cursos Livres\Oficina_Informatica\informatica para internet\controleComissao\controleComissao\bin\Debug\controleComissao.pdb
+T:\Cursos Livres\Oficina_Informatica\informatica para internet\controleComissao\controleComissao\obj\Debug\controleComissao.csprojResolveAssemblyReference.cache
+T:\Cursos Livres\Oficina_Informatica\informatica para internet\controleComissao\controleComissao\obj\Debug\controleComissao.frmPrincipal.resources
+T:\Cursos Livres\Oficina_Informatica\informatica para internet\controleComissao\controleComissao\obj\Debug\controleComissao.Properties.Resources.resources
+T:\Cursos Livres\Oficina_Informatica\informatica para internet\controleComissao\controleComissao\obj\Debug\controleComissao.ucComissao.resources
+T:\Cursos Livres\Oficina_Informatica\informatica para internet\controleComissao\controleComissao\obj\Debug\controleComissao.ucVendedor.resources
+T:\Cursos Livres\Oficina_Informatica\informatica para internet\controleComissao\controleComissao\obj\Debug\controleComissao.csproj.GenerateResource.cache
+T:\Cursos Livres\Oficina_Informatica\informatica para internet\controleComissao\controleComissao\obj\Debug\controleComissao.csproj.CoreCompileInputs.cache
+T:\Cursos Livres\Oficina_Informatica\informatica para internet\controleComissao\controleComissao\obj\Debug\controleComissao.exe
+T:\Cursos Livres\Oficina_Informatica\informatica para internet\controleComissao\controleComissao\obj\Debug\controleComissao.pdb
+C:\Users\edson.dpereira\Documents\Visual Studio 2017\Projetos\controleComissao\controleComissao\obj\Debug\controleComissao.csprojResolveAssemblyReference.cache
+C:\Users\edson.dpereira\Documents\Visual Studio 2017\Projetos\controleComissao\controleComissao\obj\Debug\controleComissao.frmPrincipal.resources
+C:\Users\edson.dpereira\Documents\Visual Studio 2017\Projetos\controleComissao\controleComissao\obj\Debug\controleComissao.Properties.Resources.resources
+C:\Users\edson.dpereira\Documents\Visual Studio 2017\Projetos\controleComissao\controleComissao\obj\Debug\controleComissao.ucComissao.resources
+C:\Users\edson.dpereira\Documents\Visual Studio 2017\Projetos\controleComissao\controleComissao\obj\Debug\controleComissao.ucVendedor.resources
+C:\Users\edson.dpereira\Documents\Visual Studio 2017\Projetos\controleComissao\controleComissao\obj\Debug\controleComissao.csproj.GenerateResource.cache
+C:\Users\edson.dpereira\Documents\Visual Studio 2017\Projetos\controleComissao\controleComissao\obj\Debug\controleComissao.csproj.CoreCompileInputs.cache
+C:\Users\edson.dpereira\Documents\Visual Studio 2017\Projetos\controleComissao\controleComissao\obj\Debug\controleComissao.exe
+C:\Users\edson.dpereira\Documents\Visual Studio 2017\Projetos\controleComissao\controleComissao\obj\Debug\controleComissao.pdb
+C:\Users\edson.dpereira\Documents\Visual Studio 2017\Projetos\controleComissao\controleComissao\bin\Debug\controleComissao.exe.config
+C:\Users\edson.dpereira\Documents\Visual Studio 2017\Projetos\controleComissao\controleComissao\bin\Debug\controleComissao.exe
+C:\Users\edson.dpereira\Documents\Visual Studio 2017\Projetos\controleComissao\controleComissao\bin\Debug\controleComissao.pdb
+D:\controleComissao\controleComissao\bin\Debug\controleComissao.exe.config
+D:\controleComissao\controleComissao\bin\Debug\controleComissao.exe
+D:\controleComissao\controleComissao\bin\Debug\controleComissao.pdb
+D:\controleComissao\controleComissao\obj\Debug\controleComissao.csprojAssemblyReference.cache
+D:\controleComissao\controleComissao\obj\Debug\controleComissao.frmPrincipal.resources
+D:\controleComissao\controleComissao\obj\Debug\controleComissao.Properties.Resources.resources
+D:\controleComissao\controleComissao\obj\Debug\controleComissao.ucComissao.resources
+D:\controleComissao\controleComissao\obj\Debug\controleComissao.ucVendedor.resources
+D:\controleComissao\controleComissao\obj\Debug\controleComissao.csproj.GenerateResource.cache
+D:\controleComissao\controleComissao\obj\Debug\controleComissao.csproj.CoreCompileInputs.cache
+D:\controleComissao\controleComissao\obj\Debug\controleComissao.exe
+D:\controleComissao\controleComissao\obj\Debug\controleComissao.pdb
+C:\Users\edson.dpereira\Documents\Visual Studio 2017\WindowsForm\controleComissao\controleComissao\bin\Debug\controleComissao.exe.config
+C:\Users\edson.dpereira\Documents\Visual Studio 2017\WindowsForm\controleComissao\controleComissao\bin\Debug\controleComissao.exe
+C:\Users\edson.dpereira\Documents\Visual Studio 2017\WindowsForm\controleComissao\controleComissao\bin\Debug\controleComissao.pdb
+C:\Users\edson.dpereira\Documents\Visual Studio 2017\WindowsForm\controleComissao\controleComissao\obj\Debug\controleComissao.csprojResolveAssemblyReference.cache
+C:\Users\edson.dpereira\Documents\Visual Studio 2017\WindowsForm\controleComissao\controleComissao\obj\Debug\controleComissao.frmPrincipal.resources
+C:\Users\edson.dpereira\Documents\Visual Studio 2017\WindowsForm\controleComissao\controleComissao\obj\Debug\controleComissao.Properties.Resources.resources
+C:\Users\edson.dpereira\Documents\Visual Studio 2017\WindowsForm\controleComissao\controleComissao\obj\Debug\controleComissao.ucComissao.resources
+C:\Users\edson.dpereira\Documents\Visual Studio 2017\WindowsForm\controleComissao\controleComissao\obj\Debug\controleComissao.ucVendedor.resources
+C:\Users\edson.dpereira\Documents\Visual Studio 2017\WindowsForm\controleComissao\controleComissao\obj\Debug\controleComissao.csproj.GenerateResource.cache
+C:\Users\edson.dpereira\Documents\Visual Studio 2017\WindowsForm\controleComissao\controleComissao\obj\Debug\controleComissao.csproj.CoreCompileInputs.cache
+C:\Users\edson.dpereira\Documents\Visual Studio 2017\WindowsForm\controleComissao\controleComissao\obj\Debug\controleComissao.exe
+C:\Users\edson.dpereira\Documents\Visual Studio 2017\WindowsForm\controleComissao\controleComissao\obj\Debug\controleComissao.pdb
+C:\Users\edson.dpereira\Documents\Visual Studio 2017\WindowsForm\controleComissao\controleComissao\obj\Debug\controleComissao.frmPComissao.resources
